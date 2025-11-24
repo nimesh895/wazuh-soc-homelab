@@ -1,6 +1,6 @@
 # SOC Analyst Homelab — Wazuh SIEM with Windows Agent
 
-![SOC Homelab Architecture](confirm%20wazuh%20running1.png)
+![SOC Homelab Architecture](summery.png)
 
 A fully functional mini Security Operations Center (SOC) built with free tools to practice real-world endpoint monitoring, log collection, and threat detection using **Wazuh** (open-source SIEM + XDR).
 
@@ -8,7 +8,7 @@ A fully functional mini Security Operations Center (SOC) built with free tools t
 Monitor a Windows 11 endpoint, collect logs in real time, and detect suspicious activity using Wazuh.
 
 ### Lab Architecture
-![Lab Overview & VirtualBox VMs](confirm%20wazuh%20running2.png)
+![Lab Overview & VirtualBox VMs](Screenshot%202025-08-23%20123628.png)
 
 | Machine         | Role                              | OS            |
 |-----------------|-----------------------------------|---------------|
@@ -66,7 +66,7 @@ Monitor a Windows 11 endpoint, collect logs in real time, and detect suspicious 
 ---
 **Built 100% with free/open-source tools** • VirtualBox • Wazuh • Kali • Windows 11
 
-**Original PDF documentation**: [home lab setup.pdf](home%20lab%20setup.pdf)
+**Original PDF documentation**: [home lab setup.pdf](lab%20setup.pdf)
 
 ---
 **GitHub Topics (add these so recruiters find you):**
