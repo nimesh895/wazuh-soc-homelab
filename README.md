@@ -69,8 +69,10 @@ Monitor a Windows 11 endpoint, collect logs in real time, and detect suspicious 
 **Original PDF documentation**: [home lab setup.pdf](lab%20setup.pdf)
 
 ---
-**GitHub Topics (add these so recruiters find you):**
-`wazuh` `siem` `soc-analyst` `homelab` `cybersecurity` `blue-team` `endpoint-security` `threat-detection` `windows-agent` `xdr`
+
+👨‍💻 **Connect with me** → [linkedin.com/in/nimesh23](https://www.linkedin.com/in/nimesh23)  
+Feel free to reach out for collaboration, mentorship, or job opportunities!
 
 ---
-**This project is portfolio-ready — add the link to your resume & LinkedIn!**
+
+**Made by Nimesh Akalanka Peiris** — Passionate about Blue Team & SOC operations
