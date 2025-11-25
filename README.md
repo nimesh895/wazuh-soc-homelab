@@ -1,3 +1,5 @@
+Last updated: November 25, 2025
+
 # SOC Analyst Homelab — Wazuh SIEM with Windows Agent
 
 ![SOC Homelab Architecture](summery.png)
